@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6df993fd652994d85f827b538b9651, type: 3}
+  m_Name: Thinks you're a child
+  m_EditorClassIdentifier: 
+  enemyLines:
+  - Hey lil fella! Are you lost?
+  - Awwww you so CUTE! You need help finding your way out?
+  - Alright, have fun lil fella!
+  caughtResponses:
+  - Don't worry buddy, I'll lead you straight out
+  - I'll help ya out, small one, let's go out now.
+  firstPlayerChoices:
+  - Who you callin' lil'?
+  - Uhh, yes sir pwease hwelp
+  - Dude... I'm like twice your age
+  - 'Goo goo gaa gaa '
+  secondPlayerChoices:
+  - No sir! I'm good! Thankiu!
+  - IM NOT A KID
+  - Goo goo gaa gaa
+  - Yes please!
+  correctChoices: 0200000004000000

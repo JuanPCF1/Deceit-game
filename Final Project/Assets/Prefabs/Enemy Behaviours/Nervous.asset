@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6df993fd652994d85f827b538b9651, type: 3}
+  m_Name: Nervous
+  m_EditorClassIdentifier: 
+  enemyLines:
+  - '*sweats* uhh what are you doing here?'
+  - '*Yelps* pl..pl...please don''t'
+  - Ok Ok! I'll leave you alone!
+  caughtResponses:
+  - N...No! You're coming with me!
+  - I... Don't think so. Come with me, Mister.
+  firstPlayerChoices:
+  - I'm your captain, kid.
+  - I need to get to the next room
+  - You better not say a thing or I'll kill you
+  - Sorry sir, I believe I am lost
+  secondPlayerChoices:
+  - Lmao I was just kidding
+  - You heard me. I know where you live
+  - Now let me through please!
+  - 'Y''know what they say: glimbar. Am I right?'
+  correctChoices: 0300000002000000

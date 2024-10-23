@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6df993fd652994d85f827b538b9651, type: 3}
+  m_Name: Party Greeter
+  m_EditorClassIdentifier: 
+  enemyLines:
+  - Hey man, hurry in there!
+  - The party! It's the general's birthday!
+  - Uhhh IDK no one has ever seen him. You don't have to wear your uniform in there,
+    but everyone still did! How prideful!... guess you didn't. Oh well.
+  caughtResponses: []
+  firstPlayerChoices:
+  - Why?
+  - What?
+  - What's going on in there?
+  - I am proffesional soldier and shi
+  secondPlayerChoices:
+  - Right! The general! Where is he?
+  - The general huh? What does he look like?
+  - Do you know the general?
+  - How can I find the general? I need him ASAP.
+  correctChoices: 0000000000000000

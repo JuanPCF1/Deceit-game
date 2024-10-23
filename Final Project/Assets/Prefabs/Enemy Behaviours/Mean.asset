@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6df993fd652994d85f827b538b9651, type: 3}
+  m_Name: Mean
+  m_EditorClassIdentifier: 
+  enemyLines:
+  - What the hell do you think you're doing here
+  - You bufoon, these crates are here for a reason
+  - Hmph. Yeah it wasn't easy. Hurry up and take them
+  caughtResponses:
+  - You disrespectful prick. You're comin' with me.
+  - Do you know who you're talkin' to? You're comin' with me
+  firstPlayerChoices:
+  - Hey buddy calm down
+  - None of your beeswax
+  - Who the hell do you think you're talking to?
+  - I'm here to finally move all these crates, sir.
+  secondPlayerChoices:
+  - Yes, thank you for keeping them safe for me
+  - Shut up before I turn your face inside out
+  - Oh yeah? Tell me why they're here
+  - Then why are they all over the place?
+  correctChoices: 0400000001000000

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c6df993fd652994d85f827b538b9651, type: 3}
+  m_Name: Manager
+  m_EditorClassIdentifier: 
+  enemyLines:
+  - Woah buddy, why aren't you in uniform?
+  - Oh. Well these guys suck. Half of them sleep whenever they can and the other
+    half don't take it seriously
+  - Thank you. Sorry for stopping you.
+  caughtResponses:
+  - That's not very proffessional of you. Let me confirm with upstairs that you are
+    actually who you say you are. Come come.
+  - Yeah right. Come with me before I sound the alarms.
+  firstPlayerChoices:
+  - I forgor
+  - I'm from upstairs, checking if everyone is working right
+  - You should already know, I'm the manager here
+  - Someone told me it was free-dress day today
+  secondPlayerChoices:
+  - Isn't it your job to keep them up to standard?
+  - I hate it here too
+  - I see. I'll bring it up at the next meeting.
+  - Shouldn't be so mean to them
+  correctChoices: 0200000003000000
