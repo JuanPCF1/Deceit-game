@@ -1,7 +1,6 @@
 Juan Pablo Calvo Franco
 April 6th/2022
 
-PLEASE JUMP TO TEST BRANCH
 Recommended resolution: 1024 x 768
 
 The purpose of this game is for players to do some critical thinking. The way this is achieved is through the stealth aspect of the game. You have to hide behind objects
